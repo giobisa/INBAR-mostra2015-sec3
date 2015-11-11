@@ -1,5 +1,5 @@
 nuovo file
-<<<<<<< Updated upstream
+
 questo testo è scritto dal browser  
 
 
