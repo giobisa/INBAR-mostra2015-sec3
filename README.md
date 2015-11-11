@@ -11,21 +11,26 @@ Per renderlo privato bisogna sottoscrivere un abbonamento. Il costo è  [abborda
 - se lo fa un undividuo: 7 € per un mese con 5 repository e utenti illimitati
 - come associazione 25 €/mese con 10 progetti privati.
 
-### LAVORO: opzioni operative
+### LAVORO su GitHub
 
- Sono sostanzialmente due:
+ Le opzioni sono sostanzialmente due:
  
-1. non installi l'applicazione desktop:
-   - scrivi e correggi qui sul web (seleziona la matita in alto a destra) e poi io aggiorno i file sul _mio_ archivio locale.
-2. installi l'applicazione-desktop GitHub:
-  - dalla pagina sul web selezioni *clona il progetto*
+1. installi l'applicazione-desktop GitHub. Prima ti registri, poi la scarichi e la installi in locale. Una volta installata:
+  - dalla pagina del progetto, sul web, selezioni *clona il progetto*
   - te lo scarica nella directory da cui lo gestisci **in locale**, modifichi aggiungi ecc. lavorando e salvando sul tuo pc (anche offline) e poi ti colleghi e sincronizzi con GitHub, per aggiornare.
+<<<<<<< HEAD
   - la cosa interessante è che restano tutti i file antecedenti alle modifiche e si capisce chi le ha fatte e quali sono.
 
 ![](Screen-Shot%202015-11-11-19.37.47.png)
 
 
 
+=======
+  - la cosa interesante è che restano tutti i file antecedenti alle modifiche e si capisce chi le ha fatte e quali sono.
+1. **NON** installi l'applicazione desktop:
+   - scrivi e correggi qui sul web (seleziona la matita in alto a destra) e poi io aggiorno i file sul _mio_ archivio locale.  - 
+  
+>>>>>>> origin/master
 
 ### markdown
 
