@@ -47,3 +47,10 @@ non uso questo sistema operativo sicché non ho provato le apps:
  - [stackedit](https://stackedit.io/editor) ha l'interfaccia tipo wordprocessr e scrive automaticamente la sintassi corretta
  - [writemonkey](http://writemonkey.com/index.php)
  - [haropad](http://pad.haroopress.com) guarda il video
+
+#### app md per Mac
+
+- [multimarkdown composer](http://multimarkdown.com)
+- TextMate
+- [mou](http://25.io/mou/) 
+- per Mac ce ne sono un mucchio, basta fare un ricerca sul web
