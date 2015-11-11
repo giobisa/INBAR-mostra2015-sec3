@@ -11,8 +11,10 @@ Per renderlo privato bisogna sottoscrivere un abbonamento. Il costo è  [abborda
 - se lo fa un undividuo: 7 € per un mese con 5 repository e utenti illimitati
 - come associazione 25 €/mese con 10 progetti privati.
 
-### Le opzioni operative sono due:
+### LAVORO: opzioni operative
 
+ Sono sostanzialmente due:
+ 
 1. non installi l'applicazione desktop:
    - scrivi e correggi qui sul web (seleziona la matita in alto a destra) e poi io aggiorno i file sul _mio_ archivio locale.
 2. installi l'applicazione-desktop GitHub:
