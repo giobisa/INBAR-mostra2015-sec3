@@ -32,7 +32,7 @@ Per renderlo privato bisogna sottoscrivere un abbonamento. Il costo è  [abborda
 
 ### markdown
 
-conviene scrivere in [markdown](http://daringfireball.net/projects/markdown/) o [multimarkdown](http://fletcherpenney.net/multimarkdown/) per ottenre il file di solo-testo **ma** con le formattazioni. Ad es. questo testo è scritto in md. Se selezioni la matita per la modifica la finestra che si apre è già predisposta. Per le formattazzioni semplici ci vogliono 3 minuti:
+conviene scrivere in [markdown](http://daringfireball.net/projects/markdown/) o [multimarkdown](http://fletcherpenney.net/multimarkdown/) per ottenre il file di solo-testo **ma** con le formattazioni. Ad es. questo testo è scritto in md. Se selezioni la matita per la modifica la finestra che si apre è già predisposta. Per le formattazioni semplici ci vogliono 3 minuti:
 
 - per il testo *enfatizzato* metti prima e dopo la/e parola/e un asterisco * oppure un underscore _
 - per il **grassetto** (che sarebbe meglio non usare: due asterischi prima e dopo
