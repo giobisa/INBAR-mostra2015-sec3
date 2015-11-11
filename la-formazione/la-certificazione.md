@@ -1,4 +1,4 @@
-# CERTIFICAZIONE: MARCHIO ENERGETICO AMBIENTALE INBAR
+# MARCHIO ENERGETICO AMBIENTALE INBAR
 
 INBAR ha messo a punto un sistema di certificazione energetica ed ambientale che:
 
