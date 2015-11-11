@@ -16,7 +16,7 @@ Il percorso formativo, storicamente, è suddiviso in _livelli formativi_ con con
 Tutti i livelli presuppongono un esame finale ed il conseguente rilascio dell’attestato di superamento del livello (se ottenuto).
 
 
-#### IMMAGINI
+#### IMMAGINI - NdR
 
 l’ideale sarebbe trovare immagini di qualche lezione in cui si scorga. oltre ai partecipanti (allievi) qualcuno dell’INBAR e/o magari il logo dell’associazione 
 
