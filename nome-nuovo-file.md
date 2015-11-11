@@ -14,5 +14,3 @@ lavorando su browser verifica che sia selezionato il Tab <> Edit file
 scrivi qualcosa e poi clicca su 'Preview changes'
 
 poi quando tutto va bene clicca si *Commit changes* in basso sotto questa finestra.
-
-
