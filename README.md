@@ -18,8 +18,7 @@ Per renderlo privato bisogna sottoscrivere un abbonamento. Il costo è  [abborda
 1. installi l'applicazione-desktop GitHub. Prima ti registri, poi la scarichi e la installi in locale. Una volta installata:
   - dalla pagina del progetto, sul web, selezioni *clona il progetto*
   - te lo scarica nella directory da cui lo gestisci **in locale**, modifichi aggiungi ecc. lavorando e salvando sul tuo pc (anche offline) e poi ti colleghi e sincronizzi con GitHub, per aggiornare.
-<<<<<<< HEAD
-  - la cosa interessante è che restano tutti i file antecedenti alle modifiche e si capisce chi le ha fatte e quali sono.
+   - la cosa interessante è che restano tutti i file antecedenti alle modifiche e si capisce chi le ha fatte e quali sono.
 
 ![](Screen-Shot%202015-11-11-19.37.47.png)
 
@@ -30,7 +29,6 @@ Per renderlo privato bisogna sottoscrivere un abbonamento. Il costo è  [abborda
 1. **NON** installi l'applicazione desktop:
    - scrivi e correggi qui sul web (seleziona la matita in alto a destra) e poi io aggiorno i file sul _mio_ archivio locale.  - 
   
->>>>>>> origin/master
 
 ### markdown
 
