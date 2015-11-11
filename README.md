@@ -15,8 +15,8 @@ Per renderlo privato bisogna sottoscrivere un abbonamento. Il costo è  [abborda
 
  Le opzioni sono sostanzialmente due:
  
-1. installi l'applicazione-desktop GitHub:
-  - dalla pagina sul web selezioni *clona il progetto*
+1. installi l'applicazione-desktop GitHub. Prima ti registri, poi la scarichi e la installi in locale. Una volta installata:
+  - dalla pagina del progetto, sul web, selezioni *clona il progetto*
   - te lo scarica nella directory da cui lo gestisci **in locale**, modifichi aggiungi ecc. lavorando e salvando sul tuo pc (anche offline) e poi ti colleghi e sincronizzi con GitHub, per aggiornare.
   - la cosa interesante è che restano tutti i file antecedenti alle modifiche e si capisce chi le ha fatte e quali sono.
 1. **NON** installi l'applicazione desktop:
