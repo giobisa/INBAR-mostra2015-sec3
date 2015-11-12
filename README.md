@@ -56,17 +56,20 @@ non uso questo sistema operativo sicché non ho provato le apps:
 
 - [markpad](http://code52.org/DownmarkerWPF/)
 - [MarkdownPad](http://fletcherpenney.net/multimarkdown/) la versione base e free ma in gni caso la pro costa pochissimo: $14.95, pocop più di 10 €.
-- []()
-- esistono editor on-line: 
- - [dillinger](http://dillinger.io) -- provalo!
- - [markable](https://markable.in)
- - [stackedit](https://stackedit.io/editor) ha l'interfaccia tipo wordprocessr e scrive automaticamente la sintassi corretta
- - [writemonkey](http://writemonkey.com/index.php)
- - [haropad](http://pad.haroopress.com) guarda il video
-
+- [writemonkey](http://writemonkey.com/index.php)
+- [haropad](http://pad.haroopress.com) guarda il video
+ 
 #### app md per Mac
 
 - [multimarkdown composer](http://multimarkdown.com)
 - TextMate
 - [mou](http://25.io/mou/) 
 - per Mac ce ne sono un mucchio, basta fare un ricerca sul web
+
+#### editor on-line (multipiattaforma): 
+
+ - [dillinger](http://dillinger.io) -- provalo!
+ - [markable](https://markable.in)
+ - [stackedit](https://stackedit.io/editor) ha l'interfaccia tipo wordprocessr e scrive automaticamente la sintassi corretta
+
+
