@@ -9,7 +9,7 @@ Come diretta conseguenza della _declinazione italiana_ dei principi della baubio
 
 La finalità di partenza del protocollo  mira al rilascio di un titolo -- il marchio -- che:
 
-- garantisca la corretta identificabilità della qualità di un edificio,
+1. garantisca la corretta identificabilità della qualità di un edificio,
 - consenta una comparazione tra edifici -- aventi caratteristiche anche diverse tra loro -- che sia basata su un elevato livello delle prestazioni fornite.
 
 Si tratta di un sistema di certificazione _volontario_ che permette la valutazione oggettiva e la comparabilità di fabbricati situati anche in zone diverse. Questo perché l'analisi viene effettuata con medesimi parametri. 
