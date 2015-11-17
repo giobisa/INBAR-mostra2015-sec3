@@ -15,6 +15,10 @@ Il percorso formativo, storicamente, è suddiviso in _livelli formativi_ con con
 
 Tutti i livelli presuppongono un esame finale ed il conseguente rilascio dell’attestato di superamento del livello (se ottenuto).
 
+Ferma restando la struttura dei corsi già accreditati presso il CNA, che ha rappresentato il raggiungimento di un obiettivo di riguardo per il prestigio e l'operato dell'associazione, in questo momento la *commissione formazione* sta lavorando su molteplici progetti con l'obiettivo di migliorare e aggiornare i temi e le modalità di svolgimento dell'offerta formativa proposta da INBAR.  
+
+
+------------------
 
 #### IMMAGINI - NdR
 
