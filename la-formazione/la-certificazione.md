@@ -25,6 +25,7 @@ La procedura è suddivisa in fasi che guidano e indirizzano il processo decision
 Le caratteristiche principali del Sistema di Certificazione Energetico Ambientale dell'Istituto Nazionale di Bioarchitettura® possono essere così sintetizzate:
 
 – è un sistema di valutazione *prestazionale*: valuta le prestazioni di un edificio analizzando la sua capacità di rispondere in modo adeguato a requisiti prefissati da norme cogenti o volontarie o da regolamenti specifici o dalle esigenze dell'utenza o del mercato;
+
  – tiene conto delle *caratteristiche qualitative dei materiali* utilizzati nella costruzione e, conseguentemente, consente la verifica degli aspetti di durabilità dell'edificio;
  – tiene conto dell'*ubicazione* dell'edificio valutato: è necessaria un'accurata analisi del sito;
  – consente la verifica di tutti gli aspetti cogenti: benessere termico, luminoso, acustico, caratteristiche dei materiali impiegati, fabbisogno risorse; 
