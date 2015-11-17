@@ -1,4 +1,4 @@
-# I crediti formativi CIAO CIAO CIAO
+# I crediti formativi
 
 Un aspetto formativo estremamente significativo è rappresentato dai seminari organizzati a livello nazionale ovvero dalle sezioni territoriali che rappresentano punti di riflessione ed approfondimento su tematiche specifiche generalmente correlate alle necessità progettuali specialistiche.
 
