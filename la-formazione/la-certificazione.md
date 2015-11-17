@@ -24,9 +24,8 @@ La procedura è suddivisa in fasi che guidano e indirizzano il processo decision
 
 Le caratteristiche principali del Sistema di Certificazione Energetico Ambientale dell'Istituto Nazionale di Bioarchitettura® possono essere così sintetizzate:
 
-1. è un sistema di valutazione *prestazionale*: valuta le prestazioni di un edificio analizzando la sua capacità di rispondere in modo adeguato a requisiti prefissati da norme cogenti o volontarie o da regolamenti specifici o dalle esigenze dell'utenza o del mercato;
-
-– tiene conto delle *caratteristiche qualitative dei materiali* utilizzati nella costruzione e, conseguentemente, consente la verifica degli aspetti di durabilità dell'edificio;
-– tiene conto dell'*ubicazione* dell'edificio valutato: è necessaria un'accurata analisi del sito;
-– consente la verifica di tutti gli aspetti cogenti: benessere termico, luminoso, acustico, caratteristiche dei materiali impiegati, fabbisogno risorse; 
-– tiene conto della presenza dei libretti di uso e manutenzione di cui, secondo quanto prevede lo schema di certificazione, l'edificio deve essere dotato per ottenere il rispetto della durabilità prevista per l'edificio.
+1. è un sistema di valutazione *prestazionale*: valuta le prestazioni di un edificio analizzando la sua capacità di rispondere in modo adeguato a requisiti prefissati da norme cogenti o volontarie o da regolamenti specifici o dalle esigenze dell'utenza o del mercato
+2. tiene conto delle *caratteristiche qualitative dei materiali* utilizzati nella costruzione e, conseguentemente, consente la verifica degli aspetti di durabilità dell'edificio;
+3. tiene conto dell'*ubicazione* dell'edificio valutato: è necessaria un'accurata analisi del sito;
+4. consente la verifica di tutti gli aspetti cogenti: benessere termico, luminoso, acustico, caratteristiche dei materiali impiegati, fabbisogno risorse; 
+5. tiene conto della presenza dei libretti di uso e manutenzione di cui, secondo quanto prevede lo schema di certificazione, l'edificio deve essere dotato per ottenere il rispetto della durabilità prevista per l'edificio.
